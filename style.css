@@ -16,6 +16,11 @@ a:hover {
 	color: #756AF4;
 }
 
+img {
+	display: block;
+	margin: 0 auto;
+}
+
 #navbar {
 	margin-left: 40%;
 	margin-top: 10px;
