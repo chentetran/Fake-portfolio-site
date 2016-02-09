@@ -3,7 +3,7 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	margin-top: 14%;
+	margin-top: 13%;
 }
 
 a {
@@ -11,6 +11,10 @@ a {
 	font-size: 15px;
 	color: white;
 	font-family: "Courier New";
+}
+
+a:hover {
+	color: #756AF4;
 }
 
 #navbar {
