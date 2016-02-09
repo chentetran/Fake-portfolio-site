@@ -3,7 +3,6 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	margin-top: 13%;
 }
 
 a {
@@ -20,6 +19,10 @@ a:hover {
 #navbar {
 	margin-left: 40%;
 	text-align: center;
+}
+
+.header_bio {
+	margin-top: 5%;
 }
 
 .button {
@@ -39,6 +42,7 @@ a:hover {
 }
 
 #textbox {
+	margin-top: 13%;
 	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
@@ -47,7 +51,20 @@ a:hover {
 	padding-right: 1%;
 }
 
-.header {
+#textbox_bio {
+	margin-top: 5%;
+	width: 60%;
+	height: 70px;
+	overflow: auto;
+	background-color: rgba(255,255,255,.2);
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 15px;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.header, .header_bio {
 	font-size: 300%;
 	font-family: "Impact", Times, serif;
 	color: white;
