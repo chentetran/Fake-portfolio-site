@@ -63,6 +63,10 @@ a:hover {
 	border-radius: 15px;
 	padding-left: 1%;
 	padding-right: 1%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgba(77,130,122,.7);
+
 }
 
 .subheader {
@@ -85,6 +89,17 @@ a:hover {
 	padding-right: 1%;
 	color: white;
 	font-size: 110%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgba(77,130,122,.7);
+}
+
+.right {
+	float: right;
+}
+
+.italics {
+	font-style: italic;
 }
 
 .header, .header_bio {
@@ -98,6 +113,11 @@ p {
 	color: white;
 	font-family: "Courier", Times, serif;
 	font-size: 25px;
+}
+
+.field:hover {
+	color: #756AF4;
+	list
 }
 
 #caution {
