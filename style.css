@@ -71,6 +71,7 @@ img {
 	border-style: solid;
 	border-width: 2px;
 	border-color: rgba(77,130,122,.7);
+	border-radius: 5px 15px;
 
 }
 
@@ -97,6 +98,7 @@ img {
 	border-style: solid;
 	border-width: 2px;
 	border-color: rgba(77,130,122,.7);
+	border-radius: 5px 15px;
 }
 
 .right {
