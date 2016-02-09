@@ -83,6 +83,8 @@ a:hover {
 	border-radius: 15px;
 	padding-left: 1%;
 	padding-right: 1%;
+	color: white;
+	font-size: 110%;
 }
 
 .header, .header_bio {
@@ -103,4 +105,10 @@ p {
 	font-size: 30px;
 	text-align: center;
 	font-weight: bold;
+}
+
+.details {
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
 }
