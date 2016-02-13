@@ -19,3 +19,10 @@ I consulted threads on stackexchange.com and w3school for brief introductions
 to certain HTML elements and CSS stylings.
 
 I spent approximately 6 hours on this assignment.
+
+***EDIT***
+I forgot to add the source for the images I used. 
+
+The alien is from replicatedtypo.com (http://www.replicatedtypo.com/learn-an-alien-language/10867.html).
+
+The space background is from a blog (http://newfullhdwallpapers1.blogspot.com/2015/03/beauty-of-stars-hd-wallpapers-free.html).
